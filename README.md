@@ -6,4 +6,4 @@ It's just basic project made by using HTML/CSS and JS (DOM)
  
 Please check it out :)
  
-Link: https://firedup2023.github.io/zerodha-landing-page/
+Link: https://mohits-git.github.io/zerodha-landing-page/
